@@ -1,4 +1,4 @@
-const CACHE_NAME = 'compradecasa-v1';
+const CACHE_NAME = 'compradecasa-v2';
 const SHELL_ASSETS = [
   './',
   './index.html',
