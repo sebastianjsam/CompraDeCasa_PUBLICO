@@ -1,0 +1,1 @@
+var r={por_visitar:"Por visitar",visitada:"Visitada",favorito:"Favorito",en_negociacion:"En negociaci\xF3n",descartado:"Descartado",comprada:"Comprada"},t=["favorito","en_negociacion","por_visitar","visitada","comprada","descartado"];export{r as a,t as b};
